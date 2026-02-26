@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML/AI and Game Development
 - 🌱 I’m currently learning Reinforcement Learning and Godot Game Engine
 - 💞️ I’m looking to collaborate on building DL/RL models, Chess Engine, 2D retro games on Godot 
-- 📫 How to reach me, Email: ahluwaliamridul@gmail.com
+- 📫 How to reach me, Email: mahluwalia.tech@proton.me
 
 <!---
 MridulAhluwalia/MridulAhluwalia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
